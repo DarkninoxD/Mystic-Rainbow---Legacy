@@ -7,8 +7,14 @@ Decidi deixar os codigos em Open Source para que todos possam usar sistemas inse
 Espero que usam essa engine com sabedoria.
 
 Creditos:
+
 DarkninoxD;
+
 Boasfestas;
+
 Pablo;
+
 Criadores da Elysium Engine;
+
 Dentre outros que não consegui lembrar :v
+
