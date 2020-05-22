@@ -8,5 +8,5 @@ Por que estou postando? Bom, eu não estou mais tendo tempo para continuar jogos
 
 Espero que usem essa engine com sabedoria, e ao abrir o visual basic 6 para edições, *Abram como Administrador*.
 
-Creditos aos membros: DarkninoxD, Boasfestas, Pablo, Criadores da Elysium Engine, Dentre outros que não consegui lembrar :v
+Creditos aos membros: DarkninoxD, Boasfestas, Pablo, Criadores da Elysium Engine, Toda a equipe por traz do Mystic Rainbow / Legacy que esteve comigo durante todo esse tempo de jogo Online, Dentre outros que não consegui lembrar :v
 
